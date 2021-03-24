@@ -1,2 +1,2 @@
 # isobar-course
-Isobar Course App with React JS
+Isobar Course Application with React JS
